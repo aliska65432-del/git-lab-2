@@ -6,3 +6,4 @@
 Комплексная лабораторная работа по Git.
 Изучение веток, слияния, отмены изменений,
 подмодулей и Git LFS.Draft documentation
+Incorrect project description
